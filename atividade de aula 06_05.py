@@ -11,3 +11,4 @@ while i < tamanho:
 print("usando for")
 for i in range(0, tamanho, 2):
         print(palavra[i])
+..
